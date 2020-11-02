@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@docker-compose://[/home/florian/develop/frappe/frappe_docker/.devcontainer/docker-compose.yml]:frappe/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/frappe_docker/development/frappe-bench" remote-root="/workspace/development/frappe-bench" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@docker-compose://[/home/florian/develop/frappe/frappe_docker/.devcontainer/docker-compose.yml]:frappe/frappe-bench/env/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/frappe_docker/development/frappe-bench" remote-root="/workspace/development/frappe-bench" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@docker-compose://[/home/florian/develop/frappe/frappe_docker/.devcontainer/docker-compose.yml]:frappe//workspace/development/frappe-bench/env/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/frappe_docker/development/frappe-bench" remote-root="/workspace/development/frappe-bench" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@docker-compose://[/home/florian/develop/frappe/frappe_docker/.devcontainer/docker-compose.yml]:frappe//workspace/development/frappe-bench/env/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/frappe_docker/development/frappe-bench" remote-root="/workspace/development/frappe-bench" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
